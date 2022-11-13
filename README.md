@@ -1,4 +1,4 @@
-### Welcome to my Joris' Github profile!
+### Welcome to my Github profile!
 I'm a 24 year old game developer from the Netherlands!
 
 - 🔭 I’m currently working on applied games games in Unity3D!
@@ -9,9 +9,13 @@ I'm a 24 year old game developer from the Netherlands!
 ---
 
 - Proficiencies in Unity3D
-  - ★★★★★ - C# programming skills
+  - ★★★★★ - C# programming skills 
   - ★★★★☆ - Unity UI Toolkit
-  - ★★★★☆ - Custom Inspectors & development tools
+  - ★★★★☆ - Custom Inspectors & development tools  	
+  
   - ★★★☆☆ - Mobile platform development
   - ★★★☆☆ - Virtual Reality & Augmented Reality
 
+
+[Link text Here](https://link-url-here.org)
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
