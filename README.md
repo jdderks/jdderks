@@ -1,15 +1,20 @@
-### Hi there 👋
+### Welcome to my GitHub profile!
+I'm a 24 year old game developer from the Netherlands!
 
-**jdderks/jdderks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on applied games games in Unity3D!
+- 😄 Pronouns: He/him
+- ⚡ Favorite games: Cities: Skylines, Kerbal Space Program, Command & Conquer & RimWorld
+- 🎮 Discord: Joris#6357
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- Proficiencies in Unity3D
+  - ★★★★★ - C# programming skills
+  - ★★★★★ - Object-Oriented Programming (OOP)
+  - ★★★★☆ - Unity UI Toolkit
+  - ★★★★☆ - Custom Inspectors & development tools
+  - ★★★☆☆ - Mobile platform development
+  - ★★★☆☆ - Visual effects & Particle systems
+  - ★★★☆☆ - Virtual Reality & Augmented Reality
+  - ★★★☆☆ - Code Versioning & Documentation
+  - ★★★☆☆ - Data-Oriented Programming (OOP)
