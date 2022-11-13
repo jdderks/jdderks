@@ -17,5 +17,4 @@ I'm a 24 year old game developer from the Netherlands!
   - ★★★☆☆ - Virtual Reality & Augmented Reality
 
 
-[Link text Here](https://link-url-here.org)
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
