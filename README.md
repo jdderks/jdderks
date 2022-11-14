@@ -29,4 +29,4 @@ I'm mainly focussed on games in Unity but I also have some familiarity with C++ 
   - ★★☆☆☆ - Java [Example 1](https://github.com/jdderks/TextAdventure)
 
 
-[What do these stars mean to me?]()
+[What do these stars mean to me?](https://github.com/jdderks/jdderks/blob/main/stars.md)
