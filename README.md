@@ -12,9 +12,9 @@ I'm mainly focussed on games in Unity but I also have some familiarity with
 ---
 
 - Proficiencies / Familiarities in Unity3D
-  - ★★★★☆ - C# programming skills [Example 1](https://github.com/jdderks/HKU_GDV1/blob/master/Assets/Scripts/Managers/InputManager.cs) [Example 2](https://github.com/jdderks/projectContext2)
+  - ★★★★☆ - C# programming skills [Example 1](https://github.com/jdderks/HKU_GDV1/blob/master/Assets/Scripts/Managers/InputManager.cs) [Example 2](https://github.com/jdderks/projectContext2/tree/main/Assets/Scripts)
   - ★★★★☆ - Custom Inspectors & development tools [Example 1](https://github.com/jdderks/kernModule2_Tools/blob/main/Assets/Scripts/Quest/Editor/FetchQuestManagerEditor.cs) [Image 1](https://github.com/jdderks/jdderks/blob/main/custom_inspectorexample.png)
-  - ★★★★☆ - Unity UI 
+  - ★★★★☆ - Unity UI [See Apoapsis on my website](https://jorisderks.com/#simulations)
   - ★★★☆☆ - Mobile platform development 
   - ★★☆☆☆ - Virtual Reality & Augmented Reality
 
