@@ -4,7 +4,6 @@ I'm mainly focussed on games in Unity but I also have some familiarity with C++ 
 
 ---
 
-- 😄 Pronouns: He/him
 - 🎮 Discord: Joris#6357
 - ⚡ Favorite games: Cities: Skylines, Kerbal Space Program, Command & Conquer & RimWorld
 - 🏪 itch.io: https://qc-jorisnl.itch.io
