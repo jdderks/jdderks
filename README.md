@@ -8,4 +8,6 @@ I'm mainly focussed on games in Unity but I also have some familiarity with C++ 
 - 🏪 itch.io: https://qc-jorisnl.itch.io
 - 🌍 website: https://jorisderks.com/ (If you'd like to contact me you can find my contact info here.)
 
+Most of my projects are closed source, but if you message me I'll be happy to share whatever I'm working on. :)
+
 ---
